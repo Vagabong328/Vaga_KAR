@@ -1,0 +1,122 @@
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\OneOrder.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\OrdersWindow.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\merches.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\plitka.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\GunsBams_Content.g.cs
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\GunsBams.exe.config
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\OneOrder.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\OrdersWindow.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\avtorizacia.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\HistoryPage.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\merches.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\OrdersPages.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\plitka.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Pages\TalonOrder.baml
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\GunsBams.g.resources
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Vaga.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Vaga.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Vaga.csproj.CopyComplete
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\GunsBams1233 — копия — копия — копия\Vaga\obj\Debug\Vaga.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\OneOrder.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\OrdersWindow.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\merches.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\plitka.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\OneOrder.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\OrdersWindow.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\avtorizacia.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\HistoryPage.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\merches.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\OrdersPages.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\plitka.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Pages\TalonOrder.baml
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga.csproj.CopyComplete
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga_Content.g.cs
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga_MarkupCompile.cache
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga_MarkupCompile.lref
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\Vaga.exe.config
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\Vaga.exe
+C:\Users\SystemX\Desktop\Vaga\Vaga\bin\Debug\Vaga.pdb
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga.g.resources
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga.Properties.Resources.resources
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga.exe
+C:\Users\SystemX\Desktop\Vaga\Vaga\obj\Debug\Vaga.pdb
